@@ -1,4 +1,4 @@
-# jrib-devops - 🇧🇷/🇺🇸  
+# jrib-devops  🇧🇷🇺🇸  
 
 <div align="center">
   <!-- GitHub Stats -->
