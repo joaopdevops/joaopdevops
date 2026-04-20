@@ -71,12 +71,12 @@ Everything about my learning path — roadmap, progress, study notes, and hands-
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdevops&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdevops&layout=compact&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopdevops&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopdevops&layout=compact&theme=dracula&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joaopdevops&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joaopdevops&theme=dracula&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
 
 ---
