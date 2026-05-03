@@ -51,6 +51,9 @@ Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitH
 | Certificação | Status |
 |---|:---:|
 | Oracle Cloud Infrastructure Foundations Associate | ✅ Mai/2025 |
+| Cisco Networking Academy — Introdução à Cibersegurança (via ESCom — Exército Brasileiro) | ✅ Mar/2026 |
+| Redes de Computadores — Centro de Telemática de Área (Exército Brasileiro) — 40h | ✅ Abr/2026 |
+| Linux — Centro de Telemática de Área (Exército Brasileiro) | ✅ Abr/2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 Em andamento |
 | CKA — Certified Kubernetes Administrator | 🎯 Após CCNA |
 
