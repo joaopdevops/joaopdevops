@@ -56,6 +56,9 @@ I study daily and document my learning journey openly on GitHub.
 | Cisco Networking Academy — Introduction to Cybersecurity (via ESCom — Brazilian Army) | ✅ Mar 2026 |
 | Computer Networks — Centro de Telemática de Área (Brazilian Army) | ✅ Apr 2026 |
 | Linux — Centro de Telemática de Área (Brazilian Army) | ✅ Apr 2026 |
+| Network Fundamentals (Teltec partnership) — 1º CTA | 🎯 In progress 2026 |
+| Network & Data Cabling — 1º CTA | 🎯 In progress 2026 |
+| IT Logistics — 1º CTA | 🎯 In progress 2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 In progress |
 | CKA — Certified Kubernetes Administrator | 🎯 After CCNA |
 
