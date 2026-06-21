@@ -59,6 +59,7 @@ Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitH
 | Fundamentos de Redes (parceria Teltec) — 1º CTA | 🎯 Em andamento 2026 |
 | Cabeamento de Redes e Dados — 1º CTA | 🎯 Em andamento 2026 |
 | Logística de TI — 1º CTA | 🎯 Em andamento 2026 |
+| CCNA 1 e 2 — Cisco NetAcad (via EsCom — Exército Brasileiro) | 🎯 Em andamento 2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 Em andamento |
 | CKA — Certified Kubernetes Administrator | 🎯 Após CCNA |
 

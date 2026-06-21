@@ -59,6 +59,7 @@ I study daily and document my learning journey openly on GitHub.
 | Network Fundamentals (Teltec partnership) — 1º CTA | 🎯 In progress 2026 |
 | Network & Data Cabling — 1º CTA | 🎯 In progress 2026 |
 | IT Logistics — 1º CTA | 🎯 In progress 2026 |
+| CCNA 1 & 2 — Cisco NetAcad (via EsCom — Brazilian Army) | 🎯 In progress 2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 In progress |
 | CKA — Certified Kubernetes Administrator | 🎯 After CCNA |
 
