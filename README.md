@@ -54,11 +54,11 @@ I study daily and document my learning journey openly on GitHub.
 |---|:---:|
 | Oracle Cloud Infrastructure Foundations Associate | ✅ May 2025 |
 | Introduction to Cybersecurity — Cisco Networking Academy (via EsCom, Brazilian Army) | ✅ Mar 2026 |
-| Computer Networks — 1st Army Telematics Center (1º CTA), Brazilian Army | ✅ Apr 2026 |
-| Linux — 1st Army Telematics Center (1º CTA), Brazilian Army | ✅ Apr 2026 |
-| Network Fundamentals (Teltec partnership) — 1st Army Telematics Center (1º CTA), Brazilian Army | 🎯 In progress 2026 |
-| Network & Data Cabling — 1st Army Telematics Center (1º CTA), Brazilian Army | 🎯 In progress 2026 |
-| IT Logistics for Supported Units — 1st Army Telematics Center (1º CTA), Brazilian Army | 🎯 In progress 2026 |
+| Computer Networks — Centro de Telemática de Área, 5º CTA (Brazilian Army) | ✅ Apr 2026 |
+| Linux — Centro de Telemática de Área, 5º CTA (Brazilian Army) | ✅ Apr 2026 |
+| Network Fundamentals (Teltec partnership) — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
+| Network & Data Cabling — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
+| IT Logistics for Supported Units — Centro de Telemática de Área, 1º CTA (Brazilian Army) | 🎯 In progress 2026 |
 | CCNA 1 & 2 — Cisco Networking Academy (via EsCom, Brazilian Army) | 🎯 In progress 2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 In progress |
 | CKA — Certified Kubernetes Administrator | 🎯 After CCNA |

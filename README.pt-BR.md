@@ -54,11 +54,11 @@ Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitH
 |---|:---:|
 | Oracle Cloud Infrastructure Foundations Associate | ✅ Mai/2025 |
 | Introdução à Cibersegurança — Cisco Networking Academy (via EsCom, Exército Brasileiro) | ✅ Mar/2026 |
-| Redes de Computadores — 1º Centro de Telemática de Área (1º CTA), Exército Brasileiro | ✅ Abr/2026 |
-| Linux — 1º Centro de Telemática de Área (1º CTA), Exército Brasileiro | ✅ Abr/2026 |
-| Fundamentos de Redes (parceria Teltec) — 1º Centro de Telemática de Área (1º CTA), Exército Brasileiro | 🎯 Em andamento 2026 |
-| Cabeamento de Redes e Dados — 1º Centro de Telemática de Área (1º CTA), Exército Brasileiro | 🎯 Em andamento 2026 |
-| Logística de TI — 1º Centro de Telemática de Área (1º CTA), Exército Brasileiro | 🎯 Em andamento 2026 |
+| Redes de Computadores — Centro de Telemática de Área, 5º CTA (Exército Brasileiro) | ✅ Abr/2026 |
+| Linux — Centro de Telemática de Área, 5º CTA (Exército Brasileiro) | ✅ Abr/2026 |
+| Fundamentos de Redes (parceria Teltec) — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
+| Cabeamento de Redes e Dados — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
+| Logística de TI — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
 | CCNA 1 e 2 — Cisco Networking Academy (via EsCom, Exército Brasileiro) | 🎯 Em andamento 2026 |
 | CCNA — Cisco Certified Network Associate | 🎯 Em andamento |
 | CKA — Certified Kubernetes Administrator | 🎯 Após CCNA |
