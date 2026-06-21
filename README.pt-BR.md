@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Em+transi%C3%A7%C3%A3o+para+DevOps%2FCloud;Estudando+todos+os+dias+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Redes+%26+Seguran%C3%A7a+primeiro;DevSecOps+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 # João Pedro Ribeiro
 
-**Sargento do Exército Brasileiro → DevOps/Cloud Engineer (em construção)**
+**Sargento do Exército Brasileiro → Redes & Segurança | DevSecOps (em construção)**
 
-Passei 8 anos no Exército Brasileiro, trabalhando na seção de informática da minha OM com servidores Linux e monitoramento com Zabbix. Agora estou seguindo um plano estruturado de 6 meses para me tornar DevOps/Cloud Engineer: Redes (CCNA) → Linux → Docker → Kubernetes → AWS → Terraform → CI/CD.
+Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Agora estou construindo uma base sólida em **redes e segurança**, o alicerce de uma carreira em DevSecOps, e crescendo em automação em cima dessa base.
 
 Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitHub.
 
@@ -23,8 +23,9 @@ Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitH
 ### 📚 Estudando Atualmente
 
 - 🌐 **Fundamentos de Redes** para a certificação CCNA
+- 🔒 **Segurança de redes** (fundamentos)
 - 🐧 **Administração Linux** aprofundando minhas skills do dia a dia
-- 📖 Seguindo um plano estruturado de 6 meses em DevOps/Cloud
+- 📖 Construindo rumo ao **DevSecOps** — automação em cima de uma base sólida
 
 ---
 
@@ -35,9 +36,10 @@ Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitH
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-### Aprendendo (plano de 6 meses)
+### Aprendendo (rumo ao DevSecOps)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
