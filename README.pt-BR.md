@@ -80,7 +80,7 @@ Tudo sobre meu aprendizado — roadmap, progresso, resumos e laboratórios prát
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=joaopdevops&theme=dracula&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=joaopdevops&theme=dracula&hide_border=true&cache_seconds=21600&v=20260627" alt="GitHub Streak" />
 </div>
 
 ---
