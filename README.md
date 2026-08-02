@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.pt-BR.md">🇧🇷 Leia em Português</a>
+  <a href="https://github.com/joaopdevops/joaopdevops/blob/main/README.pt-BR.md">🇧🇷 Leia em Português</a>
 </div>
 
 <p align="center">
