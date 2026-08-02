@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Redes%2C+do+cabo+pra+cima;Switching%2C+roteamento+e+troubleshooting;Documento+cada+lab+que+construo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Redes%2C+do+cabo+pra+cima;Switching%2C+roteamento+e+troubleshooting;DevSecOps+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 # João Pedro Ribeiro
 
-**Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança**
+**Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança | DevSecOps (em construção)**
 
-Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Estou construindo profundidade real em **infraestrutura de redes**: endereçamento, switching, roteamento, conectividade e a segurança que vem junto. Automação vem depois, e em cima dessa base — não dá pra automatizar nem proteger uma infraestrutura que você não entende.
+Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Estou construindo profundidade real em **infraestrutura de redes** — endereçamento, switching, roteamento, conectividade e a segurança que vem junto — como alicerce deliberado pro **DevSecOps**. A ordem é de propósito: não dá pra automatizar nem proteger uma infraestrutura que você não entende.
 
 Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto que ninguém consegue repetir não é bem um conserto.
 
@@ -28,6 +28,7 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 - 🧵 **Cabeamento estruturado e infraestrutura física** — a camada embaixo de tudo
 - 🐧 **Administração Linux** — aprofundando minhas skills do dia a dia
 - 🔎 **Troubleshooting de rede** — ler o sintoma antes de mexer na configuração
+- 🛡️ Construindo rumo ao **DevSecOps** — automação e segurança em cima de uma base sólida
 
 ---
 
@@ -76,7 +77,7 @@ Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e
 
 <p align="center">
   <a href="https://github.com/joaopdevops/devops-roadmap">
-    <img src="https://img.shields.io/badge/📂_Roadmap_de_Infraestrutura_de_Redes-Repositório_Principal-00D9FF?style=for-the-badge" alt="Roadmap de Infraestrutura de Redes" />
+    <img src="https://img.shields.io/badge/📂_Roadmap_Redes_→_DevSecOps-Repositório_Principal-00D9FF?style=for-the-badge" alt="Roadmap Redes para DevSecOps" />
   </a>
 </p>
 

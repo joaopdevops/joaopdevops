@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Brazilian+Army+Sergeant;Networks%2C+from+the+cable+up;Switching%2C+routing+%26+troubleshooting;Documenting+every+lab+I+build" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Brazilian+Army+Sergeant;Networks%2C+from+the+cable+up;Switching%2C+routing+%26+troubleshooting;DevSecOps+in+the+making+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 # João Pedro Ribeiro
 
-**Brazilian Army Sergeant → Network Infrastructure & Security**
+**Brazilian Army Sergeant → Network Infrastructure & Security | DevSecOps (in progress)**
 
-I spent 8 years in the Brazilian Army, where I support my unit's IT section with the battalion's network and Linux servers — switches, cabling, servers, and support tickets. I'm building real depth in **network infrastructure**: addressing, switching, routing, connectivity, and the security that goes with it. Automation comes later, and on top of that base — you can't automate or protect infrastructure you don't understand.
+I spent 8 years in the Brazilian Army, where I support my unit's IT section with the battalion's network and Linux servers — switches, cabling, servers, and support tickets. I'm building real depth in **network infrastructure** — addressing, switching, routing, connectivity, and the security that goes with it — as the deliberate foundation for **DevSecOps**. The order is on purpose: you can't automate or protect infrastructure you don't understand.
 
 I study daily and document every lab openly on GitHub, because a fix nobody can repeat isn't really a fix.
 
@@ -28,6 +28,7 @@ I study daily and document every lab openly on GitHub, because a fix nobody can 
 - 🧵 **Structured cabling & physical infrastructure** — the layer under everything
 - 🐧 **Linux administration** — deepening my daily skills
 - 🔎 **Network troubleshooting** — reading the symptom before touching the config
+- 🛡️ Building toward **DevSecOps** — automation and security on top of a solid foundation
 
 ---
 
@@ -76,7 +77,7 @@ Everything about my learning path — roadmap, progress, study notes, network to
 
 <p align="center">
   <a href="https://github.com/joaopdevops/devops-roadmap">
-    <img src="https://img.shields.io/badge/📂_Network_Infrastructure_Roadmap-Main_Repository-00D9FF?style=for-the-badge" alt="Network Infrastructure Roadmap" />
+    <img src="https://img.shields.io/badge/📂_Networking_→_DevSecOps_Roadmap-Main_Repository-00D9FF?style=for-the-badge" alt="Networking to DevSecOps Roadmap" />
   </a>
 </p>
 
