@@ -14,7 +14,11 @@
 
 **Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança**
 
-Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Estou construindo profundidade real em **infraestrutura de redes**: endereçamento, switching, roteamento, conectividade e a segurança que vem junto. Automação vem depois, e em cima dessa base — não dá pra automatizar nem proteger uma infraestrutura que você não entende.
+Estou há 8 anos no Exército Brasileiro, onde sou 3º Sargento de carreira. Este ano, depois de começar a faculdade de Redes de Computadores, passei a apoiar a seção de informática da minha OM com a rede do batalhão e servidores Linux, switches, cabeamento e chamados de suporte.
+
+Comecei meus estudos mirando direto em DevOps: Docker, Terraform, CI/CD. Eu conseguia seguir o passo a passo, mas quando algo quebrava eu não sabia explicar o porquê. O que faltava nunca foi a ferramenta. Era a camada de baixo. Aí tomei uma decisão deliberada de parar e reconstruir a base primeiro.
+
+Essa base é redes e Linux. Endereçamento, sub-redes, switching, roteamento, conectividade e a segurança que vem junto. Todo o resto roda em cima disso. Redes é também a minha porta de entrada no mercado, e isso foi escolha, não plano B. DevOps continua sendo meu destino, construído sobre essa base em vez de substituí-la. Não dá pra automatizar nem proteger uma infraestrutura que você não entende.
 
 Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto que ninguém consegue repetir não é bem um conserto.
 

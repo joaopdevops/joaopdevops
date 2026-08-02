@@ -14,7 +14,11 @@
 
 **Brazilian Army Sergeant → Network Infrastructure & Security**
 
-I spent 8 years in the Brazilian Army, where I support my unit's IT section with the battalion's network and Linux servers — switches, cabling, servers, and support tickets. I'm building real depth in **network infrastructure**: addressing, switching, routing, connectivity, and the security that goes with it. Automation comes later, and on top of that base — you can't automate or protect infrastructure you don't understand.
+I've spent 8 years in the Brazilian Army as a career Third Sergeant. This year, after starting my Computer Networks degree, I began supporting my unit's IT section with the battalion's network and Linux servers, switches, cabling, and support tickets.
+
+I started my studies aiming straight at DevOps: Docker, Terraform, CI/CD. I could follow the steps, but when something broke I couldn't explain why. The missing piece was never the tool. It was the layer underneath. So I made a deliberate decision to stop and rebuild the foundation first.
+
+That foundation is networking and Linux. Addressing, subnetting, switching, routing, connectivity, and the security that comes with them. Everything else runs on top of it. Networking is also my entry point into the industry, and that was a choice, not a fallback. DevOps is still where I'm going, built on this base rather than replacing it. You can't automate or protect infrastructure you don't understand.
 
 I study daily and document every lab openly on GitHub, because a fix nobody can repeat isn't really a fix.
 
