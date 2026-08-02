@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?v=20260802&font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Redes%2C+do+cabo+pra+cima;Switching%2C+roteamento+e+troubleshooting;DevSecOps+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Sargento+do+Ex%C3%A9rcito+Brasileiro;Redes+%26+Seguran%C3%A7a+primeiro;DevSecOps+em+constru%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,23 +12,20 @@
 
 # João Pedro Ribeiro
 
-**Sargento do Exército Brasileiro → Infraestrutura de Redes & Segurança | DevSecOps (em construção)**
+**Sargento do Exército Brasileiro → Redes & Segurança | DevSecOps (em construção)**
 
-Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Estou construindo profundidade real em **infraestrutura de redes** — endereçamento, switching, roteamento, conectividade e a segurança que vem junto — como alicerce deliberado pro **DevSecOps**. A ordem é de propósito: não dá pra automatizar nem proteger uma infraestrutura que você não entende.
+Passei 8 anos no Exército Brasileiro, onde apoio a seção de informática da minha OM com a rede do batalhão e servidores Linux — switches, cabeamento, servidores e chamados de suporte. Agora estou construindo uma base sólida em **redes e segurança**, o alicerce de uma carreira em DevSecOps, e crescendo em automação em cima dessa base.
 
-Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto que ninguém consegue repetir não é bem um conserto.
+Estudo todo dia e documento minha jornada de aprendizado de forma aberta no GitHub.
 
 ---
 
 ### 📚 Estudando Atualmente
 
-- 🌐 **Redes** — trilha completa da academia Cisco, CCNA 1 → 2 → 3
-- 🔀 **Switching e roteamento** — VLANs, plano de endereçamento, rota estática e dinâmica
-- 🔒 **Segurança de redes** (fundamentos) — ACLs, hardening, acesso seguro
-- 🧵 **Cabeamento estruturado e infraestrutura física** — a camada embaixo de tudo
-- 🐧 **Administração Linux** — aprofundando minhas skills do dia a dia
-- 🔎 **Troubleshooting de rede** — ler o sintoma antes de mexer na configuração
-- 🛡️ Construindo rumo ao **DevSecOps** — automação e segurança em cima de uma base sólida
+- 🌐 **Fundamentos de Redes** para a certificação CCNA
+- 🔒 **Segurança de redes** (fundamentos)
+- 🐧 **Administração Linux** aprofundando minhas skills do dia a dia
+- 📖 Construindo rumo ao **DevSecOps** — automação em cima de uma base sólida
 
 ---
 
@@ -40,10 +37,9 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-005073?style=flat-square&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### Mais adiante no roadmap
+### Aprendendo (rumo ao DevSecOps)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -63,21 +59,19 @@ Estudo todo dia e documento cada lab de forma aberta no GitHub, porque conserto 
 | Fundamentos de Redes (parceria Teltec) — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
 | Cabeamento de Redes e Dados — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
 | Logística de TI — Centro de Telemática de Área, 1º CTA (Exército Brasileiro) | 🎯 Em andamento 2026 |
-| CCNA 1: Introduction to Networks — Cisco Networking Academy (via EsCom, Exército Brasileiro) | 🎯 Em andamento 2026 |
-| CCNA 2: Switching, Routing & Wireless Essentials — Cisco Networking Academy (via EsCom) | ⏳ Próxima |
-| CCNA 3: Enterprise Networking, Security & Automation — Cisco Networking Academy (via EsCom) | ⏳ Planejado |
-| CCNA 200-301 — Cisco Certified Network Associate | ⏳ Depois da trilha da academia |
-| CKA — Certified Kubernetes Administrator | ⏳ Mais adiante |
+| CCNA 1 e 2 — Cisco Networking Academy (via EsCom, Exército Brasileiro) | 🎯 Em andamento 2026 |
+| CCNA — Cisco Certified Network Associate | 🎯 Em andamento |
+| CKA — Certified Kubernetes Administrator | 🎯 Após CCNA |
 
 ---
 
 ### 🎯 Minha Jornada Principal
 
-Tudo sobre meu aprendizado — roadmap, progresso, resumos, topologias de rede e laboratórios práticos — está documentado em um só lugar:
+Tudo sobre meu aprendizado — roadmap, progresso, resumos e laboratórios práticos — está documentado em um só lugar:
 
 <p align="center">
   <a href="https://github.com/joaopdevops/devops-roadmap">
-    <img src="https://img.shields.io/badge/📂_Roadmap_Redes_→_DevSecOps-Repositório_Principal-00D9FF?style=for-the-badge" alt="Roadmap Redes para DevSecOps" />
+    <img src="https://img.shields.io/badge/📂_devops--roadmap-Repositório_Principal-00D9FF?style=for-the-badge" alt="DevOps Roadmap" />
   </a>
 </p>
 
